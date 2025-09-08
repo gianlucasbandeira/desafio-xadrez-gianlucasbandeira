@@ -31,7 +31,7 @@ int bispo = 0;
 return 0;
 }
 
-//exercicios:
+//exercicio no qual o código acima foi baseado
 
 //float x = 10;
 
